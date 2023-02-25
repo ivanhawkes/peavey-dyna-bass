@@ -1,3 +1,5 @@
 # Backups folder
 /schematic/peavey-dyna-bass-backups/
 *.jpg~
+schematic/#auto_saved_files#
+*.psd~
